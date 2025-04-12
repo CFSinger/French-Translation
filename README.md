@@ -18,3 +18,5 @@ Mine,Exploiter
 If you'd like to work on another language indepedently, feel free to make a copy of this repository in your development environment, add your language of choice to the master.csv, and work from there. It really is quite simple, just a lot of manual work.
 
 Known Issue: When using Runelite's Mouse Tooltips plugin, you will see tooltips for trivial things like "Walk here" ("Marchez ici"). This is because Runelite filters these out by their English string. Changing those strings (by translating them) prevents Runelite from filtering potentially disruptive mouse tooltips. It is beyond the scope of this plugin to attempt to get around this. A suggestion has been placed on Runelite's git page for a custom filter that would allow us to get around this issue by blacklisting specific tooltips by their string.
+
+As a bandaid solution, the following strings will simply not be translated by this plugin: Walk here, Continue, Cancel, Sliding piece
