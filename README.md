@@ -4,14 +4,7 @@ Currently only supports an incomplete (but growing!) catalog of French translati
 
 You will notice that there are no accents in any of the translated text. This is due to a limitation on Jagex's side that sometimes causes rendering issues when using non-standard characters. This is an inconsistent issue and accented characters do work sometimes, but to avoid random issues I've chosen to err on the side of consistency. This means some translations are technically imperfect, but they are good enough with context.
 
-If you would like to contribute to the current project, simply create an issue or pull request. The entry format is as follows (example):
-
-In-game string,Translated string<br>
-Loot,Butin<br>
-Chop down,Abattre<br>
-View,Voir<br>
-Trade,Echanger<br>
-Smelt,Eperlan
+If you would like to contribute to the current project, simply create an issue or pull request.
 
 Known Issue [1]: Translating trivial text like "Walk here" ("Marchez ici") breaks Runelite's mouse tooltip filter, meaning you would almost always see a tooltip for moving your character. This is because Runelite filters out trivial tooltips by their default (English) string. Changing those strings prevents Runelite from filtering them. It is beyond the scope of this plugin to attempt to get around this. A suggestion has been placed on Runelite's git page for a custom filter that would allow us to get around this issue by blacklisting specific tooltips by their string.
 
