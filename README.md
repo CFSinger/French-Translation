@@ -18,4 +18,4 @@ Known Issue [1]: Translating trivial text like "Walk here" ("Marchez ici") break
 
 As a bandaid solution, the following strings will simply not be translated by this plugin for the time being: Walk here, Continue, Cancel, Sliding piece (more may be added if found to be overly intrusive).
 
-Known Issue [2]: When in some shop menus, only the menu entries for items in the shop are translated. Menu actions (Value, Sell) for items in the user's inventory are not translated, but item names still are. Extremely low priority to fix as [1] it's a negligble issue and [2] I've already tried and failed a few times! Someone more experienced than me is welcome to make a fork and fix it if they've got the time.
+Known Issue [2]: In shop menus using the old interface (most of them), only the menu entries for items in the shop are translated. Menu actions (Value, Sell) for items in the user's inventory are not translated, but item names still are. Extremely low priority to fix as [1] it's a negligble issue and [2] I've already tried and failed a few times! Someone more experienced than me is welcome to make a fork and fix it if they've got the time.
