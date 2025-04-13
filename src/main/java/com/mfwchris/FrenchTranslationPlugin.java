@@ -49,6 +49,12 @@ public class FrenchTranslationPlugin extends Plugin {
 			MenuAction.WIDGET_TARGET_ON_GAME_OBJECT, MenuAction.WIDGET_TARGET_ON_GROUND_ITEM,
 			MenuAction.WIDGET_TARGET_ON_WIDGET);
 
+	private static final Set<MenuAction> MISC_MENU_ACTIONS = ImmutableSet.of(
+			MenuAction.GAME_OBJECT_FIRST_OPTION, MenuAction.GAME_OBJECT_THIRD_OPTION,
+			MenuAction.GAME_OBJECT_FIFTH_OPTION, MenuAction.WIDGET_FIRST_OPTION,
+			MenuAction.WIDGET_SECOND_OPTION, MenuAction.WIDGET_THIRD_OPTION, MenuAction.WIDGET_FOURTH_OPTION,
+			MenuAction.WIDGET_FIFTH_OPTION);
+
 	private static final ImmutableMap<String, String> ItemNameRemap = ImmutableMap.<String, String>builder()
 			.put("Bread", "Pain")
 			.build();
@@ -56,6 +62,9 @@ public class FrenchTranslationPlugin extends Plugin {
 	private static final ImmutableMap<String, String> NPCNameRemap = ImmutableMap.<String, String>builder()
 			.put("Man", "Homme")
 			.put("Woman", "Femme")
+			.build();
+
+	private static final ImmutableMap<String, String> MiscNameRemap = ImmutableMap.<String, String>builder()
 			.build();
 
 	private static final ImmutableMap<String, Set<Integer>> NPCFilterList = ImmutableMap.<String, Set<Integer>>builder()
@@ -112,7 +121,6 @@ public class FrenchTranslationPlugin extends Plugin {
 				String str[] = line.split(",");
 				translation.put(str[0], str[1]);
 			}
-
 
 		} catch (Exception e){
 			log.error(e.getMessage());
@@ -226,8 +234,6 @@ public class FrenchTranslationPlugin extends Plugin {
 		if (ids == null)
 			return true;
 
-		// Do *not* remap a name if there is an entry in the filter list
-		// and the NPC does not have the correct ID
 		return ids.contains(npc.getId());
 	}
 

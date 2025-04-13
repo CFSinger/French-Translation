@@ -36,7 +36,7 @@ Prices,Des prix
 Loot,Butin
 Chop down,Abattre
 View,Voir
-Trade,Exchanger
+Trade,Echanger
 Claim,Reclamer
 Search Wiki,Chercher Wiki
 Search,Fouiller
@@ -50,7 +50,7 @@ Steal-From,Voler de
 Steal from,Voler de
 Mine,Exploiter
 Cook,Cuisiner
-Pray-at,Prier a
+Pray-at,Prier-a
 Play,Jouer
 View Inbox,Voir la boite de reception
 Climb,Escalader
@@ -166,13 +166,60 @@ Sacrifice,Sacrifier
 Spin,Tourner
 Pick-Lock,Crocheter la serrure
 Shear,Tondre
-Top-floor,Dernier etage
+Top-floor,Dernier-etage
 Bottom-floor,Rez-de-chaussee
 Buy 1,Acheter 1
 Buy 5,Acheter 5
 Buy 10,Acheter 10
 Buy 50,Acheter 50
+Buy-1,Acheter-1
+Buy-5,Acheter-5
+Buy-10,Acheter-10
+Buy-50,Acheter-50
 Sell 1,Vendre 1
 Sell 5,Vends 5
 Sell 10,Vends 10
 Sell 50,Vends 50
+Sell-1,Vendre-1
+Sell-5,Vends-5
+Sell-10,Vends-10
+Sell-50,Vends-50
+Expand,Etendre
+Help,Aide
+Exit, Sortie
+I don't know it.,Je ne sais pas.
+Show menu,Afficher le menu
+New tab,Nouvel onglet
+Item,Article
+Note,Recu
+Insert,Inserer
+Swap,Echanger
+Enable,Activer
+Disable,Desactiver
+Deposit inventory,Deposer de inventaire
+Deposit worn items,Deposer les objets portes
+Show tutorial,Montrer le tutoriel
+Placeholder,Espace reserve
+Show worn items,Montrer les articles portes
+All,Tout
+Release all placeholders,Liberer tous les espaces reserves
+Deposit Lock Settings,Parametres de verrouillage des depots
+Withdraw-1,Retirer-1
+Withdraw-5,Retirer-5
+Withdraw-10,Retirer-10
+Withdraw-X,Retirer-X
+Withdraw-All,Retirer-tout
+Withdraw-All-but-1,Retirer-tout-sauf-1
+Deposit-1,Depot-1
+Deposit-5,Depot-5
+Deposit-10,Depot-10
+Deposit-X,Depot-X
+Deposit-All,Deposer-tout
+New tag tab,Nouvel onglet de balise
+Default quantity: 1,Quantite par defaut: 1
+Default quantity: 5,Quantite par defaut: 5
+Default quantity: 10,Quantite par defaut: 10
+Set custom quantity,Definir une quantite personnalisee
+Default quantity: All,Quantite par defaut: Tout
+Scroll up,Faire defiler vers le haut
+Scroll down,Faire defiler vers le bas
