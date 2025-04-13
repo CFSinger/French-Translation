@@ -18,4 +18,4 @@ Known Issue [1]: When using Runelite's Mouse Tooltips plugin, you will see toolt
 
 As a bandaid solution, the following strings will simply not be translated by this plugin for the time being: Walk here, Continue, Cancel, Sliding piece (more may be added if found to be overly intrusive).
 
-Known Issue [2]: When in a Shop menu, only the menu options for items in the Shop are translated. Menu actions (Value, Sell) for items in the user's inventory are not, but item names still are. I am currently unsure of how to fix this, but will work on it when I have time (it's a pretty minor problem).
+Known Issue [2]: When in a shop menu, only the menu options for items in the shop are translated. Menu actions (Value, Sell) for items in the user's inventory are not, but item names still are. I am currently unsure of how to fix this, but will work on it when I have time (it's a pretty minor problem).
