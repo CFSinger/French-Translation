@@ -1,8 +1,10 @@
 Extremely simple translation plugin for OSRS.
 
-Currently only supports an incomplete catalog of French translations. New entries are added slowly as they are done manually with a CSV rather than using any kind of API or AI tool, but this removes the need for any additional work on the user's part--just turn it on and play. You will notice that there are no accents in any of the translated text--this is due to a limitation on Jagex's side that causes rendering issues when using non-standard characters.
+Currently only supports an incomplete (but growing!) catalog of French translations. New entries are added slowly as they are done manually with a CSV rather than using any kind of API or AI tool. This plugin attempts to translate Mouseover Text (and consequently Runelite's Mouse Tooltips, Menu Entries, Item Names, and NPC Names. Graphical or otherwise "built in" interface text is unaffected, and large-scale NPC dialogue localization is outside the scope of a novice-built direct text replacement plugin.
 
-Additional languages may be added in the future, but my current priority is French. If you would like to contribute, please simply create an issue or pull request with a pre-formatted list of entries to be reviewed and added. Please do not include accented characters when seeking to contribute (see above). The CSV format is as follows (this is just an example, not a comprehensive list of current translations):
+You will notice that there are no accents in any of the translated text--this is due to a limitation on Jagex's side that sometimes causes rendering issues when using non-standard characters. This is an inconsistent issue and accented characters do work in some places, but to avoid random issues I've chosen to err on the side of consistency. This means some translations are technically imperfect, but they are good enough with context.
+
+Additional languages may be added in the future, but my current priority is French. If you would like to contribute, please simply create an issue or pull request with a pre-formatted list of entries to be reviewed and added. The CSV format is as follows (this is just an example, not a comprehensive list of current translations):
 
 In-game string,Translated string<br>
 Loot,Butin<br>
@@ -16,4 +18,4 @@ If you'd like to work on another language indepedently, feel free to make a copy
 
 Known Issue: When using Runelite's Mouse Tooltips plugin, you will see tooltips for trivial things like "Walk here" ("Marchez ici"). This is because Runelite filters these out by their English string. Changing those strings (by translating them) prevents Runelite from filtering potentially disruptive mouse tooltips. It is beyond the scope of this plugin to attempt to get around this. A suggestion has been placed on Runelite's git page for a custom filter that would allow us to get around this issue by blacklisting specific tooltips by their string.
 
-As a bandaid solution, the following strings will simply not be translated by this plugin: Walk here, Continue, Cancel, Sliding piece (more may be added if found to be overly intrusive)
+As a bandaid solution, the following strings will simply not be translated by this plugin for the time being: Walk here, Continue, Cancel, Sliding piece (more may be added if found to be overly intrusive).

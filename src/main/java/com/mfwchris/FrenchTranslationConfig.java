@@ -5,8 +5,11 @@ import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
 import net.runelite.client.config.ConfigItem;
 
-@ConfigGroup("French Translation")
-public interface FrenchTranslationConfig extends Config {
+@ConfigGroup(FrenchTranslationConfig.GROUP)
+public interface FrenchTranslationConfig extends Config
+{
+
+	String GROUP = "FrenchTranslationConfig";
 
 	@ConfigItem(
 			keyName = "language",
@@ -15,4 +18,5 @@ public interface FrenchTranslationConfig extends Config {
 	)
 	default lang lang() {
 		return lang.FRENCH;
-	}}
+	}
+}
