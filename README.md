@@ -4,7 +4,7 @@ Currently only supports an incomplete (but growing!) catalog of French translati
 
 You will notice that there are no accents in any of the translated text. This is due to a limitation on Jagex's side that sometimes causes rendering issues when using non-standard characters. This is an inconsistent issue and accented characters do work sometimes, but to avoid random issues I've chosen to err on the side of consistency. This means some translations are technically imperfect, but they are good enough with context.
 
-Additional languages may be added in the future, but my current priority is French. If you would like to contribute, please simply create an issue or pull request with a pre-formatted list of entries to be reviewed and added. The CSV format is as follows (this is just an example, not a comprehensive list of current translations):
+Additional languages may be added in the future, but my current priority is French. If you would like to contribute, please simply create an issue or pull request with grammatical or spelling corrections, or a pre-formatted list of entries to be reviewed and added. The CSV format is as follows (this is just an example, not a comprehensive list of current translations):
 
 In-game string,Translated string<br>
 Loot,Butin<br>
