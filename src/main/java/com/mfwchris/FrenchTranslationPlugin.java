@@ -20,7 +20,7 @@ import java.util.HashMap;
 @Slf4j
 @PluginDescriptor(
 		name = "French Translation",
-		description = "WIP French translations for a growing number of menu options, mouseover text, and interface text.",
+		description = "WIP French translations for a growing variety of menu options, mouseover text, and interface text.",
 		tags = {}
 )
 public class FrenchTranslationPlugin extends Plugin

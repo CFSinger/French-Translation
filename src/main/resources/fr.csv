@@ -1,12 +1,11 @@
 Follow,Suivre
 Trade with,Echangez avec
-Report,Rapport
+Report,Signaler
 Examine,Examiner
-Attack,Attaque
-Pickpocket,Pickpocket
+Attack,Attaquer
 Enter,Entrer
 Take,Prendre
-Talk-to,Parler a
+Talk-to,Parler avec
 Wield,Manier
 Withdraw,Retirer
 Deposit,Depot
@@ -31,25 +30,149 @@ Sets,Ensembles
 Wear,Porter
 Activate,Activer
 Logout,Se deconnecter
-Add friend,Ajouter un ami
-Add ignore,Ajouter ignorer
+Add Friend,Ajouter un ami
+Delete Friend,Supprimer un ami
 Prices,Des prix
 Loot,Butin
 Chop down,Abattre
 View,Voir
 Trade,Commerce
-Claim,Reclamation
-Search,Recherche
+Claim,Reclamer
+Search Wiki,Chercher Wiki
+Search,Fouiller
 Makeover,Relooking
 Climb-up,Grimper
 Climb-down,Descendre
 Close,Fermer
-Opena,Ouvrir un
+Open,Ouvrir
 Smelt,Eperlan
 Steal-From,Voler de
 Steal from,Voler de
 Mine,Exploiter
 Cook,Cuisiner
-Pray-at,Prier-a
+Pray-at,Prier a
 Play,Jouer
-Bank booth,Cabine bancaire
+View Inbox,Voir la boite de reception
+Climb,Escalader
+Pick,Cueillir
+Open Store,Magasin ouvert
+Milk,Traire
+Rake,Ratisser
+Steal-cowbell,Voler la sonnaille
+Inspect,Inspecter
+Grapple,Grappiller
+Pull,Tirer
+Shut,Fermer
+Light,Allumer
+Toggle Run,Activer/Desactiver Courir
+Hide,Cacher
+Read journal:,Lire un journal:
+Quest List, Liste de quetes
+Achievement Diaries,Journaux de reussite
+Character Summary,Resume du personnage
+Settings,Parametres
+Empty,Vide
+Fill,Remplir
+Operate,Fonctionner
+Tend-to,S'occuper
+Check,Verifier
+Rest,Repos
+Learn More,Apprendre encore plus
+Weave,Tisser
+Switch tab,Changer d'onglet
+Report abuse,Signaler un abuse
+Lookup,Chercher
+Take-boat,Prendre un bateau
+Pay-fare,Payer le prix
+Cross,Traverser
+Charter,Affreter
+Climb-into,Monter dans
+Dismiss,Congedier
+Done,Fait
+Show,Montrer
+Clear,Clair
+Look North,Regarde vers le nord
+Repair,Reparer
+Skills,Competences
+Combat Options,Options de dombat
+Inventory,Inventaire
+Worn Equipment,Equipement use
+Prayer,Priere
+Magic,Magie
+Chat-channel,Canal de discussion
+Friends List,Liste d'amis
+Ignore List,Liste d'ignorer
+View Friends List,Liste d'amis
+View Ignore List,Liste d'ignorer
+Account Management,Gestion des comptes
+Music Player,Lecteur de musique
+Add Name,Ajouter un nom
+Delete Name, Supprimer le nom
+Hammer,Martler
+Shoo,Chasser
+Pet,Caresser
+Setup,Configurer
+Small Net,Petit filet
+Bait,Appat
+Big Net,Grand filet
+Harpoon,Harpon
+Lure,Leurre
+Chop-down,Abattre
+Pay-toll(10gp),Payer un péage (10gp)
+Exchange,Echange
+Configure,Configurer
+World Switcher,Commutateur de monde
+Enter,Entrer
+Teleport,Se teleporter
+Armour,Armure
+Select,Selectionner
+Your Clan,Votre clan
+View another clan,Voir un autre clan
+Grouping,Regroupement
+Find,Trouver
+Refresh,Refraichir
+Bond Pouch,Pochette bons d'echange
+Upgrade Now,Mettre à niveau maintenant
+Name Changer,Changeur de nom
+View History,Voir l'historique
+View Newspost,Voir l'article
+View Archive,Voir l'archive
+View Poll,Voir le sondage
+Account,Compte
+Community,Communaute
+Useful Links,Liens utiles
+View equipment stats,Statistiques d'equipement
+View guide prices,Voir les prix indicatifs
+View items kept on death,Objets conserves au deces
+Call follower,Suiveur d'appel
+Display,Afficher
+Area,Zone
+Manual,Manuel
+Random,Aleatoire
+Overview,Apercu
+Collection Log,Journal de collecte
+Reveal,Reveler
+Toggle,Basculer
+Search for item,Rechercher un objet
+Add all,Ajouter tout
+Read,Lire
+Study,Etudier
+Claim-trophies,Reclamer des trophees
+Decant,Decanter
+Close dropdown,Fermer la liste deroulante
+Save,Enregistrer
+Select colour,Selectionner la couleur
+Sacrifice,Sacrifier
+Spin,Tourner
+Pick-Lock,Crocheter la serrure
+Shear,Tondre
+Top-floor,Dernier etage
+Bottom-floor,Rez-de-chaussee
+Buy 1,Acheter 1
+Buy 5,Acheter 5
+Buy 10,Acheter 10
+Buy 50,Acheter 50
+Sell 1,Vendre 1
+Sell 5,Vends 5
+Sell 10,Vends 10
+Sell 50,Vends 50
