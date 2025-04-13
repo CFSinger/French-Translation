@@ -11,7 +11,6 @@ Loot,Butin<br>
 Chop down,Abattre<br>
 View,Voir<br>
 Trade,Echanger<br>
-Search,Recherche<br>
 Smelt,Eperlan
 
 Known Issue [1]: Translating trivial text like "Walk here" ("Marchez ici") breaks Runelite's mouse tooltip filter, meaning you would almost always see a tooltip for moving your character. This is because Runelite filters out trivial tooltip strings by their English string. Changing those strings prevents Runelite from filtering them. It is beyond the scope of this plugin to attempt to get around this. A suggestion has been placed on Runelite's git page for a custom filter that would allow us to get around this issue by blacklisting specific tooltips by their string.
