@@ -9,11 +9,8 @@ Loot,Butin<br>
 Chop down,Abattre<br>
 View,Voir<br>
 Trade,Commerce<br>
-Claim,Reclamation<br>
 Search,Recherche<br>
-Smelt,Eperlan<br>
-Steal-From,Voler de<br>
-Mine,Exploiter
+Smelt,Eperlan
 
 If you'd like to work on another language indepedently, feel free to make a copy of this repository in your development environment, add your language of choice to the master.csv, and work from there. It really is quite simple, just a lot of manual work.
 
