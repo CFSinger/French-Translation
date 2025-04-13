@@ -10,7 +10,7 @@ In-game string,Translated string<br>
 Loot,Butin<br>
 Chop down,Abattre<br>
 View,Voir<br>
-Trade,Commerce<br>
+Trade,Echanger<br>
 Search,Recherche<br>
 Smelt,Eperlan
 
