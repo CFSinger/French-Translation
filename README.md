@@ -1,6 +1,6 @@
 Extremely simple translation plugin for OSRS.
 
-Currently only supports an incomplete (but growing!) catalog of French translations. New entries are added slowly as they are done manually with a CSV rather than using any kind of API or AI tool. This plugin attempts to translate Mouseover Text (and consequently Runelite's Mouse Tooltips), Menu Entries, Item Names, and NPC Names. Graphical or otherwise "built in" interface text is unaffected, and large-scale NPC dialogue localization is outside the scope of a novice-built direct text replacement plugin.
+Currently only supports an incomplete (but growing!) catalog of French translations. New entries are added slowly as they are done manually rather than using any kind of API or AI tool. This plugin attempts to translate Mouseover Text (and consequently Runelite's Mouse Tooltips), Menu Entries, Item Names, and NPC Names. Graphical or otherwise "built in" interface text is unaffected, and large-scale NPC dialogue localization is outside the scope of a novice-built direct text replacement plugin.
 
 You will notice that there are no accents in any of the translated text. This is due to a limitation on Jagex's side that sometimes causes rendering issues when using non-standard characters. This is an inconsistent issue and accented characters do work sometimes, but to avoid random issues I've chosen to err on the side of consistency. This means some translations are technically imperfect, but they are good enough with context.
 
